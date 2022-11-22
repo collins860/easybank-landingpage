@@ -130,7 +130,8 @@ button{
  }
   
   .nav-link:hover{
-   border-bottom: none;
+   border: none;
+   background-color: none;
 }
  
 
